@@ -1,27 +1,27 @@
 {
-  "name": "sumer-2-number-jonat9098",
+  "name": "kimhong-2-so-tong-8",
   "version": "1.0.3",
-  "description": "jonat9098",
+  "description": "kimhong",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hongphuc594/sumer-2-number-jonat9098.git"
+    "url": "git+https://github.com/hongphuc594/kimhong-2-so-tong-8.git"
   },
   "keywords": [
     "cacl"
   ],
-  "author": "jonat9098",
+  "author": "kimhong",
   "license": "ISC",
   "dependencies": {
     "@lananhxcnm130/lananh-async-storage": "0.0.1",
     "tinhdv-face-api.js": "0.22.5",
-    "timsolonnhat-jonat9098": "1.0.2"
+    "timsolonnhat-kimhong": "1.0.2"
   },
   "bugs": {
-    "url": "https://github.com/hongphuc594/sumer-2-number-jonat9098/issues"
+    "url": "https://github.com/hongphuc594/kimhong-2-so-tong-8/issues"
   },
-  "homepage": "https://github.com/hongphuc594/sumer-2-number-jonat9098#readme"
+  "homepage": "https://github.com/hongphuc594/kimhong-2-so-tong-8#readme"
 }
