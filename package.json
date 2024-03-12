@@ -1,9 +1,27 @@
 {
-  "name": "@daominhhiep/tea-xyz-quest",
-  "version": "1.0.0",
-  "description": "Quest for tea.xyz",
+  "name": "sumer-2-number-jonat9098",
+  "version": "1.0.3",
+  "description": "jonat9098",
   "main": "index.js",
-  "author": "@daominhhiep",
-  "repository": "https://github.com/daominhhiep/tea-xyz-quest.git",
-  "license": "ISC"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongphuc594/sumer-2-number-jonat9098.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "jonat9098",
+  "license": "ISC",
+  "dependencies": {
+    "@lananhxcnm130/lananh-async-storage": "0.0.1",
+    "tinhdv-face-api.js": "0.22.5",
+    "timsolonnhat-jonat9098": "1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/hongphuc594/sumer-2-number-jonat9098/issues"
+  },
+  "homepage": "https://github.com/hongphuc594/sumer-2-number-jonat9098#readme"
 }
